@@ -8,9 +8,9 @@ I'm currently specializing as a data scientist in Natural Language Processing an
 
 2. <a href="https://towardsbusiness.com/how-to-sell-tech-services-to-foreign-clients/?url_source=github_readme"> How To Sell Tech Services To Foreign Clients From Nepal </a> - A self-authored book sharing my experiences on selling tech services globally from Nepal.
 
-3. <a href="https://www.kaggle.com/code/pragyanbo/statistical-sidewalk-for-eda"> Statistical Sidewalk for Exploratory Data Analysis (EDA) </a> - A Kaggle Notebook sharing statistical analysis techniques written in Python.
+3. <a href="https://www.kaggle.com/code/pragyanbo/statistical-sidewalk-for-eda"> Statistical Sidewalk for Exploratory Data Analysis </a> - A Kaggle notebook sharing statistical analysis techniques written in Python.
 
-4. <a href="A Hitchhiker's Guide to Lending Club Loan Data"> A Hitchhiker's Guide to Lending Club Loan Data </a> - A Kaggle notebook sharing an in-depth EDA on the Lending Club Loan dataset.
+4. <a href="A Hitchhiker's Guide to Lending Club Loan Data"> A Hitchhiker's Guide to Lending Club Loan Data </a> - A Kaggle notebook sharing an in-depth analysis on the Lending Club Loan dataset.
 
 ## 📫 How to reach me:
 
