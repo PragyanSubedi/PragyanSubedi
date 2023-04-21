@@ -1,6 +1,6 @@
-# Hi there, I'm Pragyan! 👋
+# Hi there, I'm Pragyan, an NLP Engineer! 👋
 
-I'm currently specializing as a data scientist in Natural Language Processing and Computer Vision using Deep Learning.
+I'm currently specializing as a data scientist in Natural Language Processing using Deep Learning.
 
 ## Here are some of my publications:
 
