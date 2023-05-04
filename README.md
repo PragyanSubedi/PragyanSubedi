@@ -1,6 +1,6 @@
 # Hi there, I'm Pragyan! 👋
 
-I'm currently specializing as a data scientist in Natural Language Processing using Deep Learning.
+I'm currently specializing as a data scientist in Deep Learning.
 
 ## Here are some of my publications:
 
