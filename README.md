@@ -1,4 +1,4 @@
-# Hi there, I'm Pragyan, an NLP Engineer! 👋
+# Hi there, I'm Pragyan! 👋
 
 I'm currently specializing as a data scientist in Natural Language Processing using Deep Learning.
 
