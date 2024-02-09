@@ -14,7 +14,7 @@ I'm currently specializing on NLP-focused Deep Learning.
   - <a href="https://medium.com/@pragyansubedi/clip-by-openai-explained-1e4c38644356"> CLIP by OpenAI Explained </a> - A concise explanation on how the CLIP model is pre-trained and used for zero-shot image classification.
   - <a href="https://medium.com/@pragyansubedi/transformer-models-by-google-brain-explained-with-pytorch-implementation-7eeb62cceeaa"> Transformer Models by Google Brain Explained With PyTorch Implementation </a> - A concise explanation on how the transformer model works with a PyTorch implementation.
  
-- Published Digital Book
+- Self-Published Digital Book
   - <a href="https://towardsbusiness.com/how-to-sell-tech-services-to-foreign-clients/?url_source=github_readme"> How To Sell Tech Services To Foreign Clients From Nepal </a> - A self-authored book sharing my experiences on selling tech services globally from Nepal.
 
 - Kaggle Notebooks
