@@ -1,4 +1,4 @@
-# Hi there, I'm Pragyan! 👋
+# Hi there, I'm Pragyan! ![](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)
 
 I'm currently specializing on NLP-focused Deep Learning.
 
