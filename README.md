@@ -1,9 +1,8 @@
 # Hi there, I'm Pragyan! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Hello" width="30">
 
+I'm currently specializing on performance-centric Deep Learning using C++ over Python.
 
-I'm currently specializing on NLP-focused Deep Learning.
-
-## Here are some of my writings:
+## My writings:
 
 - Performance optimized Deep Learning:
 
