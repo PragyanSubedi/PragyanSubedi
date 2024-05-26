@@ -4,11 +4,12 @@ I'm currently specializing on building performance focused Deep Learning models 
 
 ## Know me better through my work:
 
-- MLNotify Contributor: No need to keep checking your training - just one import line and you'll know the second it's done. (300+ stars) [[Code]](https://github.com/aporia-ai/mlnotify)
+- MLNotify Contributor (300+ stars): No need to keep checking your training - just one import line and you'll know the second it's done. [[Code]](https://github.com/aporia-ai/mlnotify)
 - A Hitchhiker's Guide to Lending Club Loan Data (100+ upvotes) [[Kaggle Notebook]](https://www.kaggle.com/code/pragyanbo/a-hitchhiker-s-guide-to-lending-club-loan-data)
 - Statistical Sidewalk for Exploratory Data Analysis: A Kaggle notebook sharing statistical analysis techniques written in Python [[Kaggle Notebook]](https://www.kaggle.com/code/pragyanbo/statistical-sidewalk-for-eda)
 - PiHard: Mathematics in Python ℼ( ◡̀_◡́)ᕤ [[Code]](https://github.com/PragyanSubedi/PiHard)
 - Build a MNIST DCGAN using C++ [[Code]](https://github.com/PragyanSubedi/MNIST-DCGAN-PyTorchCPP) [[Article]](https://medium.com/@pragyansubedi/pytorch-c-frontend-build-a-mnist-dcgan-using-c-34ed4a257d26)
+- NLP using Deep Learning [[Code]](https://github.com/PragyanSubedi/NLP-Deep-Learning)
 - NLTK Breakdown: A breakdown of the Natural Language Toolkit (NLTK) library in Python [[Code]](https://github.com/PragyanSubedi/NLTK-Breakdown/tree/main)
 - PyTorch Refreshers: Implementation of various Machine Learning and Deep Learning algorithms in PyTorch [[Code]](https://github.com/PragyanSubedi/PyTorch-Refreshers)
 - Machine Learning Refreshers: Implementation of various Machine Learning algorithms along with their nuances [[Code]](https://github.com/PragyanSubedi/Machine-Learning-Refreshers)
