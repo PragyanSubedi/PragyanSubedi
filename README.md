@@ -1,26 +1,21 @@
 # Hi there, I'm Pragyan! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Hello" width="30">
 
-I'm currently specializing on performance-centric Deep Learning using C++ over Python.
+I'm currently specializing on building performance focused Deep Learning models using C++ over Python.
 
-## My writings:
+## Know me better through my work:
 
-- Performance optimized Deep Learning:
-
-  - <a href="https://medium.com/@pragyansubedi/pytorch-c-frontend-build-a-mnist-dcgan-using-c-34ed4a257d26" target="_blank">Build a MNIST DCGAN using C++ </a>
-
-- PyTorch implementation of different positional embeddings for Transformers:
-
-  - <a href="https://medium.com/@pragyansubedi/generating-fixed-positional-embeddings-for-input-sequences-using-sinusoidal-embeddings-f09d3d1d9ccf" target="_blank">Fixed Positional Embeddings using Sinusoidal Embeddings</a>
-  - <a href="https://medium.com/@pragyansubedi/adaptive-embedding-for-transformer-xl-ef8f9f80d88c" target="_blank">Adaptive Embedding for Transformer XL </a>
-  - <a href="https://medium.com/@pragyansubedi/position-wise-feed-forward-network-for-positional-embeddings-in-transformers-74e71f5a20e" target="_blank">Position-wise Feed Forward Network For Positional Embeddings In Transformers </a>
-
-- Explaination of Deep Learning models
-  - <a href="https://medium.com/@pragyansubedi/clip-by-openai-explained-1e4c38644356" target="_blank"> CLIP by OpenAI Explained </a> - A concise explanation on how the CLIP model is pre-trained and used for zero-shot image classification.
-  - <a href="https://medium.com/@pragyansubedi/transformer-models-by-google-brain-explained-with-pytorch-implementation-7eeb62cceeaa" target="_blank"> Transformer Models by Google Brain Explained With PyTorch Implementation </a> - A concise explanation on how the transformer model works with a PyTorch implementation.
-
-- Kaggle Notebooks
-  - <a href="https://www.kaggle.com/code/pragyanbo/a-hitchhiker-s-guide-to-lending-club-loan-data" target="_blank"> A Hitchhiker's Guide to Lending Club Loan Data (100+ upvotes) </a> - A Kaggle notebook sharing an in-depth analysis on the Lending Club Loan dataset.
-  - <a href="https://www.kaggle.com/code/pragyanbo/statistical-sidewalk-for-eda" target="_blank"> Statistical Sidewalk for Exploratory Data Analysis  </a> - A Kaggle notebook sharing statistical analysis techniques written in Python.
+- A Hitchhiker's Guide to Lending Club Loan Data (100+ upvotes) [[Kaggle Notebook]](https://www.kaggle.com/code/pragyanbo/a-hitchhiker-s-guide-to-lending-club-loan-data)
+- Statistical Sidewalk for Exploratory Data Analysis: A Kaggle notebook sharing statistical analysis techniques written in Python [[Kaggle Notebook]](https://www.kaggle.com/code/pragyanbo/statistical-sidewalk-for-eda)
+- PiHard: Mathematics in Python ℼ( ◡̀_◡́)ᕤ [[Code]](https://github.com/PragyanSubedi/PiHard)
+- Build a MNIST DCGAN using C++ [[Code]](https://github.com/PragyanSubedi/MNIST-DCGAN-PyTorchCPP) [[Article]](https://medium.com/@pragyansubedi/pytorch-c-frontend-build-a-mnist-dcgan-using-c-34ed4a257d26)
+- Uncovering variants of GLU for improving Transformers [[Article]](https://medium.com/@pragyansubedi/uncovering-variants-of-glu-for-improving-transformers-d503cd87ea71)
+- Gated Linear Unit — Enabling stacked convolutions to out-perform RNNs [[Article]](https://medium.com/@pragyansubedi/gated-linear-unit-enabling-stacked-convolutions-to-out-perform-rnns-ea08daa653b8)
+- Python Configuration Management using Hydra by Meta [[Article]](https://medium.com/coinmonks/python-configuration-management-using-hydra-by-meta-e24586d53ef2)
+- Fixed Positional Embeddings using Sinusoidal Embeddings [[Article]](https://medium.com/@pragyansubedi/generating-fixed-positional-embeddings-for-input-sequences-using-sinusoidal-embeddings-f09d3d1d9ccf)
+- Adaptive Embedding for Transformer XL [[Article]](https://medium.com/@pragyansubedi/adaptive-embedding-for-transformer-xl-ef8f9f80d88c)
+- Position-wise Feed Forward Network For Positional Embeddings In Transformers [[Article]](https://medium.com/@pragyansubedi/position-wise-feed-forward-network-for-positional-embeddings-in-transformers-74e71f5a20e)
+- CLIP by OpenAI Explained - A concise explanation on how the CLIP model is pre-trained and used for zero-shot image classification [[Article]](https://medium.com/@pragyansubedi/clip-by-openai-explained-1e4c38644356)
+- Transformer Models by Google Brain Explained With PyTorch Implementation [[Article]](https://medium.com/@pragyansubedi/transformer-models-by-google-brain-explained-with-pytorch-implementation-7eeb62cceeaa)
 
 ## 📫 How to reach me:
 
