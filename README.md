@@ -1,6 +1,6 @@
 # Hi there, I'm Pragyan! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Hello" width="30">
 
-I'm currently specializing on building performance focused Deep Learning models using C++ over Python.
+I'm currently specializing on building performance focused Deep Learning models using Rust over Python.
 
 ## Know me better through my work:
 
